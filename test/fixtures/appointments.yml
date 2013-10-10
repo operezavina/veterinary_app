@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  visit_date: 2013-10-10
+  reminder_appo: false
+  rason_visit: MyText
+  doctor_id: 
+  pet_id: 
+
+two:
+  visit_date: 2013-10-10
+  reminder_appo: false
+  rason_visit: MyText
+  doctor_id: 
+  pet_id: 
