@@ -17,13 +17,14 @@
 
 <p>
   <strong>Doctor:</strong>
-  <%= @appointment.doctor %>
+  <%= @appointment.doctor.name %>
 </p>
 
 <p>
   <strong>Pet:</strong>
-  <%= @appointment.pet %>
+  <%= @appointment.pet.name %>
 </p>
 
 <%= link_to 'Edit', edit_appointment_path(@appointment) %> |
+
 <%= link_to 'Back', appointments_path %>

@@ -25,13 +25,16 @@
         <td><%= appointment.pet.customer %></td>
         <td><%= appointment.pet.name %></td>
         <td><%= link_to 'Show', appointment %></td>
+        <% if (session[:doctor_id] != nil) %>
         <td><%= link_to 'Edit', edit_appointment_path(appointment) %></td>
         <td><%= link_to 'Destroy', appointment, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <% end %>
       </tr>
     <% end %>
   </tbody>
 </table>
 
 <br>
-
+<% if (session[:doctor_id] != nil) %>
 <%= link_to 'New Appointment', new_appointment_path %>
+<% end %>

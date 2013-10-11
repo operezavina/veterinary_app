@@ -4,19 +4,32 @@
     <list default="true" id="75870533-af8b-4489-a684-1761e4439221" name="Default" comment="" />
     <ignored path="veterinary_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381374153335" ignored="false" />
+    <file path="/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454170443" ignored="false" />
     <file path="/20131010010948_create_appointments.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381368003239" ignored="false" />
-    <file path="/application.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381370350377" ignored="false" />
-    <file path="/doctor.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381369273179" ignored="false" />
+    <file path="/application.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381531676007" ignored="false" />
+    <file path="/doctor.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381534194208" ignored="false" />
     <file path="/pet.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381369318351" ignored="false" />
-    <file path="/_form.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381371442931" ignored="false" />
+    <file path="/_form.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454677974" ignored="false" />
     <file path="/20131010021217_add_customer_to_pets.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381371296956" ignored="false" />
     <file path="/pets_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381371544996" ignored="false" />
-    <file path="/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381372143678" ignored="false" />
+    <file path="/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381532808714" ignored="false" />
     <file path="/appointments_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381372640401" ignored="false" />
-    <file path="/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381373212939" ignored="false" />
+    <file path="/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381530195960" ignored="false" />
     <file path="/20131010025115_add_passwod_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381373645870" ignored="false" />
     <file path="/Gemfile" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381379177415" ignored="false" />
+    <file path="/secret_token.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381381811458" ignored="false" />
+    <file path="/autentication_pages_spec.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381456662311" ignored="false" />
+    <file path="/_header.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381530677002" ignored="false" />
+    <file path="/sessions_helper.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381456400771" ignored="false" />
+    <file path="/20131010235419_add_admin_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381449374732" ignored="false" />
+    <file path="/20131010235403_add_remember_token_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381449393208" ignored="false" />
+    <file path="/doctors_helper.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381449907936" ignored="false" />
+    <file path="/doctors_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381533919684" ignored="false" />
+    <file path="/doctor_spec.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381528891309" ignored="false" />
+    <file path="/a.dummy" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381456274967" ignored="false" />
+    <file path="/new.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454540472" ignored="false" />
+    <file path="/20131011012254_add_email_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454608485" ignored="false" />
+    <file path="/show.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381532281581" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +49,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="88" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
+            <state line="3" column="26" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pet.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/pet.rb">
+      <file leaf-file-name="doctor_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/doctor_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="12" column="69" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="78" selection-start="594" selection-end="594" vertical-scroll-proportion="0.5895954">
               <folding />
             </state>
           </provider>
@@ -57,16 +79,25 @@
       <file leaf-file-name="doctor.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/doctor.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="53" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+            <state line="5" column="101" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="86" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pets/index.html.erb">
+        <entry file="file://$PROJECT_DIR$/app/views/doctors/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="18" selection-start="112" selection-end="112" vertical-scroll-proportion="-4.576923">
+            <state line="25" column="64" selection-start="513" selection-end="513" vertical-scroll-proportion="-16.346153">
               <folding />
             </state>
           </provider>
@@ -75,43 +106,34 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/appointments/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="88" selection-start="341" selection-end="341" vertical-scroll-proportion="-8.5">
+            <state line="8" column="45" selection-start="161" selection-end="161" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/appointments/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="14" column="68" selection-start="257" selection-end="257" vertical-scroll-proportion="-5.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <file leaf-file-name="doctors_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/doctors_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="112" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="7" column="55" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="autentication_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/requests/autentication_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="50" selection-start="1222" selection-end="1222" vertical-scroll-proportion="1.4348624">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pets/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="51" selection-start="412" selection-end="412" vertical-scroll-proportion="-9.807693">
+            <state line="34" column="33" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,22 +149,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-        <option value="$PROJECT_DIR$/app/models/pet.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/appointments/_form.html.erb" />
-        <option value="$PROJECT_DIR$/db/migrate/20131010021217_add_customer_to_pets.rb" />
-        <option value="$PROJECT_DIR$/app/views/pets/_form.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/pets_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/pets/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/appointments/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/appointments_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20131010025115_add_passwod_to_doctors.rb" />
-        <option value="$PROJECT_DIR$/app/models/doctor.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131011012254_add_email_to_doctors.rb" />
+        <option value="$PROJECT_DIR$/app/views/doctors/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/autentication_pages_spec.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/spec/models/doctor_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/requests/doctor_spec.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/appointments/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/appointments/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/doctors/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/doctors_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/doctor.rb" />
       </list>
     </option>
   </component>
@@ -178,7 +200,6 @@
     </navigator>
     <panes>
       <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,6 +215,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,6 +297,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,6 +398,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appointments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -355,8 +478,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="veterinary_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,6 +573,22 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
@@ -565,7 +723,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2535211" sideWeight="0.6706081" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26134586" sideWeight="0.6706081" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -642,114 +800,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/models/appointment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="62" selection-start="676" selection-end="676" vertical-scroll-proportion="-12.423077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131010021217_add_customer_to_pets.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="114" selection-end="114" vertical-scroll-proportion="0.1559633">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/appointments/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="99" selection-start="534" selection-end="534" vertical-scroll-proportion="-5.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pets/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="51" selection-start="412" selection-end="412" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pets/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="112" selection-end="112" vertical-scroll-proportion="-4.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/appointments/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="88" selection-start="341" selection-end="341" vertical-scroll-proportion="-8.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131010025115_add_passwod_to_doctors.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/appointments_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="117" selection-start="121" selection-end="121" vertical-scroll-proportion="0.09357798">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+    <entry file="file://$PROJECT_DIR$/spec/models/doctor_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="112" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/pets_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="60" selection-start="1744" selection-end="1744" vertical-scroll-proportion="1.6550459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/appointments_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="50" selection-start="652" selection-end="652" vertical-scroll-proportion="0.24954128">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/pet.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/doctor.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="53" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+        <state line="20" column="59" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="88" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
+        <state line="12" column="67" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="50" selection-start="1222" selection-end="1222" vertical-scroll-proportion="1.4348624">
+        <state line="9" column="77" selection-start="222" selection-end="222" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="59" selection-start="565" selection-end="594" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/autentication_pages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="33" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="86" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.115385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/doctors/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="64" selection-start="513" selection-end="513" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/requests/doctor_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="69" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/appointments/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="161" selection-end="161" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/appointments/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="68" selection-start="257" selection-end="257" vertical-scroll-proportion="-5.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/doctors_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="55" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/doctor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="101" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="78" selection-start="594" selection-end="594" vertical-scroll-proportion="0.5895954">
           <folding />
         </state>
       </provider>

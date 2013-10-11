@@ -26,14 +26,18 @@
         <td><%= doctor.zip %></td>
         <td><%= doctor.school %></td>
         <td><%= doctor.experience %></td>
+
         <td><%= link_to 'Show', doctor %></td>
+        <% if (Doctor.find(session[:doctor_id])[:admin]) %>
         <td><%= link_to 'Edit', edit_doctor_path(doctor) %></td>
         <td><%= link_to 'Destroy', doctor, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <% end %>
       </tr>
     <% end %>
   </tbody>
 </table>
 
 <br>
-
+<% if (Doctor.find(session[:doctor_id])[:admin]) %>
 <%= link_to 'New Doctor', new_doctor_path %>
+<% end %>

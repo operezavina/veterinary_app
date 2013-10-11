@@ -1,4 +1,7 @@
 class DoctorsController < ApplicationController
+  #before_action :signed_in_doctor,  only: [:index, :edit, :update, :destroy]
+  #before_action :correct_doctor,   only: [:edit, :update]
+  #before_action :admin_doctor,     only: :destroy
   before_action :set_doctor, only: [:show, :edit, :update, :destroy]
 
   # GET /doctors
@@ -25,6 +28,7 @@ class DoctorsController < ApplicationController
   # POST /doctors.json
   def create
     @doctor = Doctor.new(doctor_params)
+
 
     respond_to do |format|
       if @doctor.save
@@ -60,7 +64,21 @@ class DoctorsController < ApplicationController
       format.json { head :no_content }
     end
   end
+  def signed_in_doctor
+    unless signed_in?
+      store_location
+      redirect_to signin_url, notice: "Please sign in."
+    end
+  end
 
+  def correct_doctor
+    @doctor = Doctor.find(params[:id])
+    redirect_to(root_url) unless current_doctor?(@doctor)
+  end
+
+  def admin_doctor
+    redirect_to(root_url) unless current_doctor.admin?
+  end
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_doctor
@@ -69,6 +87,6 @@ class DoctorsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def doctor_params
-      params.require(:doctor).permit(:name, :address, :city, :state, :zip, :school, :experience)
+      params.require(:doctor).permit(:name, :email, :password_digest, :address, :city, :state, :zip, :school, :experience)
     end
 end

@@ -1,20 +1,21 @@
 class SessionsController < ApplicationController
   def new
+    reset_session
   end
 
   def create
-    user = Doctor.find_by(name: params[:session][:email].downcase)
-    if user && user.authenticate(params[:session][:password])
-      sign_in user
-      redirect_back_or user
+    doctor = Doctor.find_by(email: params[:session][:email].downcase)
+    if Doctor.find_by_password_digest(params[:session][:password])
+      session[:doctor_id] = doctor.id
+      redirect_to doctor
     else
-      flash.now[:error] = 'Invalid email/password combination'
+      flash[:error] = 'Invalid email/password combination' # Not quite right!
       render 'new'
     end
   end
 
   def destroy
-    sign_out
-    redirect_to root_url
+    session.destroy
+    redirect_to signin_path
   end
 end
