@@ -3,12 +3,14 @@
 <table>
   <thead>
     <tr>
-      <th>Visit date</th>
-      <th>Reminder appo</th>
-      <th>Rason visit</th>
-      <th>Doctor</th>
-      <th>Customer</th>
       <th>Pet</th>
+      <th>Visit date</th>
+      <th>Rason visit</th>
+      <% if (session[:doctor_id] != nil) %>
+      <th>Doctor</th>
+      <th>Reminder appo</th>
+      <th>Customer</th>
+      <% end %>
       <th></th>
       <th></th>
       <th></th>
@@ -18,14 +20,14 @@
   <tbody>
     <% @appointments.each do |appointment| %>
       <tr>
-        <td><%= appointment.visit_date %></td>
-        <td><%= appointment.reminder_appo %></td>
-        <td><%= appointment.rason_visit %></td>
-        <td><%= appointment.doctor.name %></td>
-        <td><%= appointment.pet.customer %></td>
         <td><%= appointment.pet.name %></td>
-        <td><%= link_to 'Show', appointment %></td>
+        <td><%= appointment.visit_date %></td>
+        <td><%= appointment.rason_visit %></td>
         <% if (session[:doctor_id] != nil) %>
+        <td><%= appointment.doctor.name %></td>
+        <td><%= appointment.reminder_appo %></td>
+        <td><%= appointment.pet.customer %></td>
+       <td><%= link_to 'Show', appointment %></td>
         <td><%= link_to 'Edit', edit_appointment_path(appointment) %></td>
         <td><%= link_to 'Destroy', appointment, method: :delete, data: { confirm: 'Are you sure?' } %></td>
         <% end %>

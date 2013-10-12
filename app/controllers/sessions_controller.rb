@@ -4,8 +4,8 @@ class SessionsController < ApplicationController
   end
 
   def create
-    doctor = Doctor.find_by(email: params[:session][:email].downcase)
-    if Doctor.find_by_password_digest(params[:session][:password])
+
+    if (Doctor.find_by_password_digest(params[:session][:password]) && doctor = Doctor.find_by(email: params[:session][:email].downcase))
       session[:doctor_id] = doctor.id
       redirect_to doctor
     else
