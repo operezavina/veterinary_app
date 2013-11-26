@@ -4,7 +4,7 @@
     <list default="true" id="75870533-af8b-4489-a684-1761e4439221" name="Default" comment="" />
     <ignored path="veterinary_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454170443" ignored="false" />
+    <file path="/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383701052473" ignored="false" />
     <file path="/20131010010948_create_appointments.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381368003239" ignored="false" />
     <file path="/application.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381531676007" ignored="false" />
     <file path="/doctor.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381540623919" ignored="false" />
@@ -12,9 +12,9 @@
     <file path="/_form.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454677974" ignored="false" />
     <file path="/20131010021217_add_customer_to_pets.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381371296956" ignored="false" />
     <file path="/pets_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381371544996" ignored="false" />
-    <file path="/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381541088044" ignored="false" />
+    <file path="/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1385484641685" ignored="false" />
     <file path="/appointments_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381372640401" ignored="false" />
-    <file path="/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381530195960" ignored="false" />
+    <file path="/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383400162853" ignored="false" />
     <file path="/20131010025115_add_passwod_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381373645870" ignored="false" />
     <file path="/Gemfile" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381379177415" ignored="false" />
     <file path="/secret_token.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381381811458" ignored="false" />
@@ -27,11 +27,62 @@
     <file path="/doctors_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381533919684" ignored="false" />
     <file path="/doctor_spec.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381528891309" ignored="false" />
     <file path="/a.dummy" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381456274967" ignored="false" />
-    <file path="/new.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454540472" ignored="false" />
+    <file path="/new.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383793853933" ignored="false" />
     <file path="/20131011012254_add_email_to_doctors.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381454608485" ignored="false" />
-    <file path="/show.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381532281581" ignored="false" />
+    <file path="/show.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383705279372" ignored="false" />
     <file path="/sample_data.rake" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381535944888" ignored="false" />
     <file path="/appointment.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381538623350" ignored="false" />
+    <file path="$PROJECT_DIR$/../shopping_cart/app/controllers/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381713650907" ignored="false" />
+    <file path="$PROJECT_DIR$/../shopping_cart/app/views/products/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381714043658" ignored="false" />
+    <file path="/products_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381714187629" ignored="false" />
+    <file path="$PROJECT_DIR$/../shopping_cart/app/controllers/products_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1381714195342" ignored="false" />
+    <file path="$PROJECT_DIR$/../cms/app/views/pages/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382317754930" ignored="false" />
+    <file path="$PROJECT_DIR$/../cms/app/controllers/pages_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382323516980" ignored="false" />
+    <file path="/pages_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382322977507" ignored="false" />
+    <file path="$PROJECT_DIR$/../cms/spec/requests/admin_manage_pages_spec.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382323442972" ignored="false" />
+    <file path="/admin_manage_pages_spec.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382323442001" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/views/shared/_post_form.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382748511928" ignored="false" />
+    <file path="/_post_form.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382748510272" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/controllers/posts_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382753156131" ignored="false" />
+    <file path="/posts_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382753138675" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/views/users/show.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382749304647" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/views/static_pages/home.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382754107402" ignored="false" />
+    <file path="/home.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382754083107" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/views/static_pages/_contact.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382749508911" ignored="false" />
+    <file path="/_contact.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382749508533" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/app/controllers/static_pages_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382751543658" ignored="false" />
+    <file path="/static_pages_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383400213572" ignored="false" />
+    <file path="$PROJECT_DIR$/../craiglistnew/config/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1382750817220" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/sessions_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383400163252" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/static_pages_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383400341341" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/static_pages/home.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383400454771" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/users/edit.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383616422487" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/config/routes.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383701052473" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/users_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707501910" ignored="false" />
+    <file path="/users_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707501910" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/projects/assing.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383697143859" ignored="false" />
+    <file path="/assing.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383697143859" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/projects_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383706618799" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/admin/dashboard.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383700753551" ignored="false" />
+    <file path="/dashboard.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383700750812" ignored="false" />
+    <file path="/projects_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383705918778" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/projects/assign.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383700016410" ignored="false" />
+    <file path="/assign.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383700015996" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/events_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383706455143" ignored="false" />
+    <file path="/events_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383703285995" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/events/assign.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383700265189" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/events/edit.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383704208441" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/events/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383703737206" ignored="false" />
+    <file path="/edit.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383705358320" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/users/show.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383705293750" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/assets/stylesheets/custom.css.scss" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383704517860" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/projects/edit.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383705358320" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/controllers/admin_controller.rb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383706685644" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/users/_user.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707075464" ignored="false" />
+    <file path="/_user.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707044814" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/users/index.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707218359" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/sessions/new.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383707185580" ignored="false" />
+    <file path="$PROJECT_DIR$/../attendance_app/app/views/events/new.html.erb" changelist="75870533-af8b-4489-a684-1761e4439221" time="1383793856608" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,55 +102,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cucumber.rake" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/tasks/cucumber.rake">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/doctors/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="45" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
+            <state line="14" column="28" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doctor.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/doctor.rb">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/appointments/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+            <state line="33" column="0" selection-start="945" selection-end="1007" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <file leaf-file-name="appointments_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/appointments_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="96" selection-start="217" selection-end="217" vertical-scroll-proportion="-3.2692308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pets_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/pets_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pet.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/pet.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="42" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+            <state line="62" column="76" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,7 +132,34 @@
       <file leaf-file-name="appointment.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/appointment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="88" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+            <state line="10" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pets_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/pets_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pets_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/pets_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="9" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/appointments/edit.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,16 +168,16 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/appointments/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="70" selection-start="635" selection-end="635" vertical-scroll-proportion="0.4258189">
+            <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.06786427">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/appointments/show.html.erb">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/doctors/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="83" selection-start="328" selection-end="328" vertical-scroll-proportion="-8.846154">
+            <state line="36" column="70" selection-start="924" selection-end="924" vertical-scroll-proportion="-23.538462">
               <folding />
             </state>
           </provider>
@@ -135,7 +186,7 @@
       <file leaf-file-name="doctors_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/doctors_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="55" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+            <state line="45" column="12" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -171,9 +222,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1340" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -543,6 +595,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sample_app" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Rails.Development: veterinary_app">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -754,14 +807,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1340" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26134586" sideWeight="0.6706081" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40943682" sideWeight="0.6706081" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -838,114 +891,102 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/doctors/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="59" selection-start="565" selection-end="594" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/autentication_pages_spec.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="33" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/doctors/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/doctors/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="64" selection-start="513" selection-end="513" vertical-scroll-proportion="-16.346153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/doctor_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="69" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/sample_data.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="12" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="81" selection-start="447" selection-end="447" vertical-scroll-proportion="-8.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/cucumber.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="45" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/appointment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="96" selection-start="217" selection-end="217" vertical-scroll-proportion="-3.2692308">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/appointments/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="83" selection-start="328" selection-end="328" vertical-scroll-proportion="-8.846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/doctors_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/appointments/index.json.jbuilder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/doctors/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="28" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/pets_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/pets_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/pet.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/pets_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="42" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+        <state line="15" column="9" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/doctor.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/doctors_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+        <state line="45" column="12" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/appointments/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/appointments/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="945" selection-end="1007" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/appointment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/appointments_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="76" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/doctors/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="70" selection-start="924" selection-end="924" vertical-scroll-proportion="-23.538462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/appointments/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="70" selection-start="635" selection-end="635" vertical-scroll-proportion="0.4258189">
+        <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.06786427">
           <folding />
         </state>
       </provider>
